@@ -7,8 +7,6 @@
 
  🔭 I’m currently studying **Software Development**
 
- 🌱 I’m currently learning **C, JAVA, JS, HTML, CSS**
-
 
 ### Languages and Tools:
 
