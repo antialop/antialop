@@ -1,10 +1,11 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Antía
 ## Welcome To My Github
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antialop&label=Profile%20views&color=0e75b6&style=flat" alt="antialop" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/zmSFP5v.gif">
 
- 🔭 I’m currently studying **Software Development**
- 
+- 🎓 I’m currently studying **Software Development**
+- 📩 How to reach me **antialopezgarcia@gmail.com**
 
-### Languages and Tools:
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
