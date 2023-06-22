@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antialop&label=Profile%20views&color=0e75b6&style=flat" alt="antialop" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/zmSFP5v.gif">
 
-- 🎓 I’m currently studying **Software Development**
 - 📩 How to reach me **antialopezgarcia@gmail.com**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antialop&layout=compact)
